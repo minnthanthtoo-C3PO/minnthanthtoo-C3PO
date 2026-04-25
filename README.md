@@ -4,7 +4,7 @@
 
 ## 🛠 What I'm learning right now
 
-- <HTML,CSS,JAVASCRIPT,C++,PYTHONE>
+- <HTML,CSS,JAVASCRIPT,C++,PYTHON>
 - <Web development>
 - <Machine learning + LLM>
 
